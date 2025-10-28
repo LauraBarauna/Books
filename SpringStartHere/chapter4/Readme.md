@@ -152,7 +152,7 @@ public class ProjectConfig {
 
 [Acesse o resumo do capítulo 3 aqui]()
 
-##⚖️ Quando há várias implementações da mesma interface
+## ⚖️ Quando há várias implementações da mesma interface
 Se uma interface tiver múltiplas implementações, o Spring não saberá qual injetar.
 Existem duas formas principais de resolver isso: ``@Primary`` e ``@Qualifier``.
 
@@ -271,10 +271,10 @@ Você aprendeu a:
 Esses conceitos são fundamentais para criar arquiteturas modulares, testáveis e fáceis de manter em aplicações Spring.
 
 ## 🗺️ Navegação
-1. [``Exemplo de Interface sem Spring``]()
-2. [``Stereotype Annotations``]()
-3. [``@Autowired``]()
-4. [``@Bean``]()
-5. [``@Primary``]()
-6. [``@Qualifier``]()
-7. [``Stereotype Annotations corretas``]()
+1. [``Exemplo de Interface sem Spring``](https://github.com/LauraBarauna/Books/tree/main/SpringStartHere/chapter4/CommentInterface/src/main/java)
+2. [``Stereotype Annotations``](https://github.com/LauraBarauna/Books/tree/main/SpringStartHere/chapter4/CommentInterfaceWithSpring/src/main/java)
+3. [``@Autowired``](https://github.com/LauraBarauna/Books/tree/main/SpringStartHere/chapter4/CommentInterfaceWithSpringAutoWiredConstructor/src/main/java)
+4. [``@Bean``](https://github.com/LauraBarauna/Books/tree/main/SpringStartHere/chapter4/CommentInterfaceWithSpringBeans/src/main/java)
+5. [``@Primary``](https://github.com/LauraBarauna/Books/tree/main/SpringStartHere/chapter4/CommentInterfaceWithSpringMultiplePrimary/src/main/java)
+6. [``@Qualifier``](https://github.com/LauraBarauna/Books/tree/main/SpringStartHere/chapter4/CommentInterfaceWithSpringMultipleQualifier/src/main/java)
+7. [``Stereotype Annotations corretas``](https://github.com/LauraBarauna/Books/tree/main/SpringStartHere/chapter4/CommentInterfaceWithSpringOthersAnnotation/src/main/java)

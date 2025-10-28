@@ -201,6 +201,8 @@ Você pode criar relacionamentos manualmente dentro dos métodos ``@Bean``, usar
 Essas práticas tornam o código mais limpo, modular e fácil de manter.
 
 ## 🗺️ Navegação
-1. [``@Bean``]()
-2. [``@Autowired``]()
-3. [``@Qualifier``]()
+1. [``@Bean``](https://github.com/LauraBarauna/Books/blob/main/SpringStartHere/chapter3/ex1/src/main/java/config/ProjectConfig.java)
+2. [Múltiplos Beans](https://github.com/LauraBarauna/Books/tree/main/SpringStartHere/chapter3/multipleBeans/src)
+3. [Múltiplos Beans com ``@Autowired``](https://github.com/LauraBarauna/Books/tree/main/SpringStartHere/chapter3/multipleBeansAutoWired/src)
+4. [``@Autowired`` no Construtor](https://github.com/LauraBarauna/Books/tree/main/SpringStartHere/chapter3/autowiredConstructor/src/main/java)
+5. [``@Autowired`` no Setter](https://github.com/LauraBarauna/Books/tree/main/SpringStartHere/chapter3/autowiredSetter)
