@@ -182,12 +182,12 @@ O capítulo 6 mostra que:
 - Quando usados corretamente, tornam sua aplicação mais profissional, modular e fácil de manter.
 
 ## 🗺️ Navegação
-1. [Como utilizar Aspects](https://github.com/LauraBarauna/Books/tree/main/SpringStartHere/chapter5/SingletonBeanWithStereotypeAnnotations)
+1. [Como utilizar Aspects](https://github.com/LauraBarauna/Books/tree/main/SpringStartHere/chapter6/ApectsFirstExample/src/main/java)
 
-2. [Alterando parametros e retorno dos métodos com Aspects](https://github.com/LauraBarauna/Books/tree/main/SpringStartHere/chapter5/SingletonBeanWithBeans)
+2. [Alterando parametros e retorno dos métodos com Aspects](https://github.com/LauraBarauna/Books/tree/main/SpringStartHere/chapter6/ChangeParametersAndReturns/src/main/java)
 
-3. [Aspects com anotação personalizada](https://github.com/LauraBarauna/Books/tree/main/SpringStartHere/chapter5/SingletonBeanLazyInstantiation)
+3. [Aspects com anotação personalizada](https://github.com/LauraBarauna/Books/tree/main/SpringStartHere/chapter6/AspectsWithAnnotations/src/main/java)
 
-4. [Múltiplos Aspects no mesmo método](https://github.com/LauraBarauna/Books/tree/main/SpringStartHere/chapter5/PrototypeScopedBeanWithStereotypeAnnotations)
+4. [Múltiplos Aspects no mesmo método](https://github.com/LauraBarauna/Books/tree/main/SpringStartHere/chapter6/MultiplesAspects/src/main/java)
 
-5. [Alterando ordem dos múltiplos Aspects](https://github.com/LauraBarauna/Books/tree/main/SpringStartHere/chapter5/PrototypeScopedBeanWithBeans)
+5. [Alterando ordem dos múltiplos Aspects](https://github.com/LauraBarauna/Books/tree/main/SpringStartHere/chapter6/MultiplesAspectsChangeOrder/src/main/java)
